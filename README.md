@@ -30,3 +30,7 @@ Data cleaning • Excel formulas (`IF`) • Pivot Tables • Charts • Slicers 
 
 ## Credit
 Guided project followed from this tutorial: https://youtu.be/opJgMj1IUrc
+
+## Screenshots
+
+![Dashboard](exel_dashboard.png)
